@@ -214,3 +214,5 @@ Build EXE:
 pip install pyinstaller
 pyinstaller --noconsole --onefile --name "RagilmalikClipboardManager" clipboard_manager.py
 ```
+<img width="1365" height="733" alt="Screenshot_2" src="https://github.com/user-attachments/assets/5ba74090-be08-420a-9cd6-ba806b89ca4a" />
+
